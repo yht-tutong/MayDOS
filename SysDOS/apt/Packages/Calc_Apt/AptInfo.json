@@ -1,0 +1,10 @@
+{
+  "package_name": "Calc",
+  "category": "Program",
+  "is_bundle": true,
+  "owner": "MayDOS bundle",
+  "version": "1.0",
+  "edition": "Normal",
+  "init_file": "Calc.py",
+  "command": "calc"
+}

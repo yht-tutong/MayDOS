@@ -1,0 +1,10 @@
+{
+  "package_name": "Maymplayer",
+  "category": "Movie",
+  "is_bundle": true,
+  "owner": "Fang-Omega",
+  "version": "1.0",
+  "edition": "Normal",
+  "init_file": "Maymplayer.py",
+  "command": "maymplayer"
+}
