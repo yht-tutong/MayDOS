@@ -1,0 +1,10 @@
+{
+  "package_name": "Minesweeper",
+  "category": "Game",
+  "is_bundle": true,
+  "owner": "MayDOS bundle",
+  "version": "1.0",
+  "edition": "Normal",
+  "init_file": "Minesweeper.py",
+  "command": "minesweeper"
+}
