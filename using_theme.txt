@@ -1,2 +1,0 @@
-%GREEN[%BEIGEMayDOS-Fang-Omega%END] $
-%GREEN[%BEIGEMayDOS-Root%END] %BLUE#%END
