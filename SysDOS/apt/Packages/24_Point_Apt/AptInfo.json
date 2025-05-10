@@ -1,0 +1,10 @@
+{
+  "package_name": "24_Point",
+  "category": "Game",
+  "is_bundle": true,
+  "owner": "Fang-Omega",
+  "version": "1.0",
+  "edition": "Normal",
+  "init_file": "24_Point.py",
+  "command": "twenty-four"
+}

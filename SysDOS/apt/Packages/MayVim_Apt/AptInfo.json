@@ -1,0 +1,10 @@
+{
+  "package_name": "MayVim",
+  "category": "Office",
+  "is_bundle": true,
+  "owner": "Fang-Omega",
+  "version": "1.1",
+  "edition": "Normal",
+  "init_file": "MayVim.py",
+  "command": "mayvim"
+}

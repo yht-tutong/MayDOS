@@ -1,0 +1,4 @@
+usebook 命令可以查看各种命令的帮助。
+包括命令的附属命令。
+
+用法：REDusebookEND
