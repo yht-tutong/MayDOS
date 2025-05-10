@@ -1,8 +1,0 @@
-apt v1.3
-by Fang-Omega
-命令行软件包管理器 apt 拥有管理软件包和启动软件包的能力。
-
-命令：
-list 列出软件包列表
-update 更新软件包列表
-start 启动软件包

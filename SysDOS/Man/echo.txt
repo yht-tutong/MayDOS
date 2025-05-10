@@ -1,4 +1,0 @@
-输出文本。
-主要用于 Shell 编程。
-
-用法：REDecho BLUE<文本>END
